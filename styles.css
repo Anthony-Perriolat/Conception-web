@@ -1,0 +1,28 @@
+.navbar,footer{
+    background-color:  #010C38;
+}
+.navbar-toggler {
+    background-color: rgb(227, 230, 255);
+}
+
+.list-group-item, body{
+    background-color: rgb(252, 248, 255);
+}
+.row, p{
+    text-align: justify;
+}
+.bg-blue-perso{
+    background-color: rgb(247, 238, 255);
+}
+.size_title{
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+.btn:hover {
+    background-color: #010C38;
+}
+
+.dropdown-item:hover{
+    background-color: #010C38;
+    color: white;
+}
